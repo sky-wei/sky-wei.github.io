@@ -1,6 +1,6 @@
 # Site settings
-title:          仰望星空
-description:    "这是我的博客"
+title:          Sky's blog
+description:    "这是我的个人博客"
 #baseurl:        ""
 url:            "https://sky-wei.github.io"
 
@@ -10,6 +10,7 @@ author:
   url:          "https://github.com/sky-wei"
   email:        "jingcai.wei@163.com"
 
+# Theme
 remote_theme: chesterhow/tale
 
 # Build settings
