@@ -1,14 +1,16 @@
 # Site settings
 title:          仰望星空
 description:    "这是我的博客"
-baseurl:        "/sky"
+#baseurl:        ""
 url:            "https://sky-wei.github.io"
 
 # Author
 author:
   name:         sky
-  url:          https://github.com/sky-wei
-  email:        jingcai.wei@163.com
+  url:          "https://github.com/sky-wei"
+  email:        "jingcai.wei@163.com"
+
+remote_theme: chesterhow/tale
 
 # Build settings
 markdown:       kramdown
@@ -20,11 +22,9 @@ sass:
 
 # Gems
 plugins:
-  - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
   # - jemoji #Uncomment this to allow emoji in your post
-
-  theme:      tale
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
