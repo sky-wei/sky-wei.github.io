@@ -11,7 +11,7 @@ author:
   email:        "jingcai.wei@163.com"
 
 # Theme
-remote_theme: chesterhow/tale
+#remote_theme: chesterhow/tale
 
 # Build settings
 markdown:       kramdown
