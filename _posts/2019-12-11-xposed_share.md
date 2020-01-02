@@ -15,10 +15,10 @@ __一键分享__ 需要在 __Xposed__ 环境(手机安装Xposed或EdXposed框架
 4. 点击 __分享__ 即可把视频无水印分享到 __微信好友__ 或 __微信朋友圈__ 以及 __系统其他应用__  
 
 ### 模块截图
-![](http://q2lwshywk.bkt.clouddn.com/image/share/Screenshot_20191215-210742.jpg)
-![](http://q2lwshywk.bkt.clouddn.com/image/share/Screenshot_20191215-210859.jpg)
-![](http://q2lwshywk.bkt.clouddn.com/image/share/Screenshot_20191215-210930.jpg)
-![](http://q2lwshywk.bkt.clouddn.com/image/share/Screenshot_20191215-211034.jpg)
+![](http://q2lwshywk.bkt.clouddn.com/image/share/device-2020-01-02-202557.jpg)
+![](http://q2lwshywk.bkt.clouddn.com/image/share/device-2020-01-02-202750.jpg)
+![](http://q2lwshywk.bkt.clouddn.com/image/share/device-2020-01-02-202941.jpg)
+![](http://q2lwshywk.bkt.clouddn.com/image/share/device-2020-01-02-203056.jpg)
 
 ### 支持的版本
 __抖音__: v9.0.0以上  
